@@ -1,0 +1,101 @@
+DOB	Email	Name	ShippingAddress	City	State	ZIP
+10/23/88	Sed@enimEtiam.com	Kylan Slater	"P.O. Box 542, 7874 Erat. Rd."	Dos Hermanas	Andalucía	23107
+09/04/92	lorem.ac.risus@cursusinhendrerit.ca	Echo Hancock	873-5448 Enim. Road	Vienna	Wi	34348
+09/05/98	nonummy@arcu.com	Amery Terrell	"P.O. Box 113, 6771 Ut Ave"	Windsor	Ontario	84599
+11/27/88	ipsum@non.org	Madonna Hines	Ap #657-5522 Mauris Rd.	Vienna	Vienna	47533
+03/19/93	ut@a.ca	Brent Cline	427-9012 Phasellus Road	Lairg	Sutherland	66181
+02/06/91	auctor@acsem.co.uk	Anastasia Bush	"P.O. Box 390, 9597 Nec Ave"	Ashburton	SI	17693
+03/20/95	Suspendisse.tristique.neque@orci.com	Edward Baxter	"P.O. Box 713, 3789 Vivamus Rd."	Deurne	AN	35364
+01/14/93	at.iaculis@Sednec.co.uk	Erin Gay	Ap #596-9483 Sed Av.	Lugo	Galicia	25403
+08/14/96	Donec.feugiat.metus@Curae.ca	Flavia Peters	Ap #421-5526 Et Rd.	Levallois-Perret	Î	87213
+01/15/00	blandit.congue.In@orci.org	Cameron Forbes	Ap #594-152 Luctus Ave	Vienna	Vienna	63635
+05/25/96	augue@convallisconvallis.ca	Laurel Fulton	Ap #240-7917 Donec Street	Vienna	Wi	97269
+10/15/90	eget.venenatis@massa.net	Leilani Sampson	647-631 In St.	Aachen	NW	75510
+11/11/96	malesuada@egetmollislectus.net	Hamish William	1498 Enim Av.	São José	SC	98704
+09/15/99	nunc.nulla@a.org	Linus Herman	Ap #814-3167 Pellentesque. St.	Bitterfeld-Wolfen	Saxony-Anhalt	54734
+04/06/91	amet.risus@laciniavitaesodales.com	Robert Mack	2862 Ligula. Street	Kettering	NT	76906
+07/02/89	mollis.dui.in@diameudolor.ca	Hope Russo	"P.O. Box 301, 2871 Sed Street"	San Nicolás	Cartago	85035
+05/11/97	Sed@etpedeNunc.com	Hamilton Kinney	"P.O. Box 857, 513 Ornare St."	Thurso	QC	71102
+04/30/99	placerat@massaInteger.net	Benjamin Macias	Ap #256-4333 Consectetuer Avenue	Quesada	Alajuela	85847
+07/23/97	risus.varius.orci@lacus.co.uk	Jescie Griffith	312-9516 Sollicitudin Avenue	Asnières-sur-Seine	Î	75070
+03/04/89	vestibulum.Mauris@Phasellusfermentumconvallis.ca	Holmes Cain	"P.O. Box 256, 2872 Interdum Rd."	Bremen	Bremen	31186
+11/02/88	libero@lectuspedeultrices.org	Kessie Daugherty	Ap #256-3437 Sit St.	Erie	Pennsylvania	68643
+03/04/91	vel.faucibus.id@commodo.org	Geraldine Buchanan	1371 Purus Avenue	Vienna	Vienna	61446
+12/11/95	arcu.et@tempuslorem.org	Caryn Cervantes	"Ap #660-225 Sed, Street"	Carapicuíba	São Paulo	60697
+04/19/98	lectus.rutrum@lectus.edu	Melanie Owens	5973 Fusce St.	Pickering	ON	88135
+06/04/89	eu.tellus.eu@iaculis.net	Zoe Adkins	551-9059 Vestibulum Av.	Port Pirie	SA	97957
+05/10/90	dolor@orciadipiscing.net	Zoe Vargas	"P.O. Box 287, 5588 Vulputate, Ave"	Vienna	Wi	41337
+07/27/89	Nulla.facilisi@Nunc.net	Geoffrey Gray	3368 Ligula Street	Tamworth	New South Wales	27826
+10/13/87	Nullam@Nullaeuneque.co.uk	Paula Burton	"P.O. Box 768, 2937 Sem. Av."	Tay	Ontario	22850
+10/10/97	lorem.vehicula@diamSed.edu	Camilla Blake	849-8262 Ornare Street	Premeno	Piemonte	94739
+02/17/00	turpis.non.enim@massarutrummagna.edu	Kalia Hampton	560-4574 Maecenas St.	San Francisco	Heredia	13247
+04/25/92	Sed@aliquetmetusurna.org	Eagan Bowen	396-5743 Sem Av.	Hamilton	VI	35453
+06/27/99	venenatis.lacus.Etiam@quamvelsapien.com	Rafael Pearson	Ap #518-1562 Sed St.	Vienna	Vienna	91306
+03/07/97	imperdiet.nec.leo@Donecfeugiatmetus.co.uk	Stacey Harrington	Ap #559-8626 Mi Avenue	Casnate con Bernate	LO	98247
+01/07/92	Morbi.accumsan@loremvehiculaet.ca	Libby Vinson	Ap #140-1388 Pharetra. Street	Maryborough	QL	35180
+07/13/95	arcu.vel@malesuadafamesac.edu	Garrison Farmer	Ap #956-2237 Turpis Rd.	Murwara	MP	70952
+02/07/00	Duis.ac@Suspendissenonleo.com	Iola Flores	Ap #932-9607 Diam Rd.	Worcester	Massachusetts	94915
+06/17/88	orci.tincidunt@semconsequat.co.uk	Imogene Wilkerson	"P.O. Box 300, 1402 Morbi Rd."	Houston	TX	70923
+02/05/99	ac.mi.eleifend@posuerecubilia.com	Medge Rowland	Ap #180-347 Non St.	Lambersart	Nord-Pas-de-Calais	11196
+11/24/95	Proin@hymenaeosMaurisut.net	Eugenia Olson	Ap #185-3041 Aliquam St.	Lincoln	Nebraska	13545
+09/30/95	eget.dictum@utmolestie.co.uk	Porter Kelley	Ap #842-1455 Ante Rd.	Dolceacqua	Liguria	46517
+01/08/89	semper.pretium.neque@urnaconvalliserat.com	Bree Ingram	7837 Convallis Ave	Wellington	NI	47453
+06/14/88	velit@Innec.edu	Florence Castaneda	"P.O. Box 447, 1166 Vulputate Avenue"	Reims	Ch	91355
+12/09/90	augue@erat.com	Audra Schneider	Ap #548-628 Odio Ave	Berlin	Berlin	98391
+08/08/91	condimentum.eget@luctussitamet.com	Hayes Mccarty	1363 Duis Av.	Waiheke Island	North Island	53254
+04/27/92	elit.a@adipiscingligula.edu	Julian Steele	515-3048 Nunc Rd.	Sanquhar	DF	77497
+05/17/93	odio@atauctorullamcorper.edu	Cade Duke	"Ap #537-6999 Luctus, St."	Spruce Grove	AB	94071
+02/08/98	Nulla@amet.net	Ian Bonner	696-5301 Consectetuer Road	Cannes	Provence-Alpes-Côte d'Azur	80225
+02/01/93	arcu.Aliquam.ultrices@dignissim.com	Francesca French	Ap #750-6604 Id Street	La Seyne-sur-Mer	Pr	10234
+06/04/89	Mauris.nulla.Integer@porttitor.org	Matthew Dunn	3799 Mi Rd.	Richmond	QC	75556
+07/17/99	Curabitur.vel@duinec.net	Hamilton Newton	"P.O. Box 423, 6325 Nascetur St."	New Radnor	Radnorshire	61120
+10/01/87	enim.Suspendisse.aliquet@ultricesVivamus.com	Kristen Perry	264-3076 Massa. Avenue	Fort Collins	CO	53581
+06/21/94	eget.dictum.placerat@dapibusquamquis.co.uk	Maite Wong	"P.O. Box 651, 4599 Vulputate St."	M?lheim	NW	88483
+10/27/95	parturient.montes@malesuadavel.ca	Rashad Moore	9861 Tristique Rd.	Saint-Brieuc	Br	90318
+10/02/99	velit.egestas@eratEtiamvestibulum.ca	Fallon Howell	"568-1828 Orci, Ave"	Hamburg	Hamburg	16458
+08/10/95	sed.consequat@atfringillapurus.net	Quinlan Garrison	Ap #348-9236 Sed Rd.	Waiblingen	BW	42784
+03/04/96	turpis.Aliquam.adipiscing@natoque.org	Eaton Kinney	7081 Viverra. Rd.	Hamburg	HH	38060
+09/25/91	aliquet.odio@idante.com	Tad Baldwin	8883 Vehicula Av.	Helmond	N.	88436
+10/06/89	vitae.erat.vel@velquam.ca	Jonas Mcdonald	Ap #764-7756 Elit. Street	LaSalle	Ontario	26756
+06/20/95	elit.sed.consequat@ullamcorperviverra.org	Jemima Herman	291-4316 Dis Street	Bathurst	New South Wales	20869
+03/31/89	blandit@anteiaculis.edu	Aphrodite Travis	Ap #572-6727 Sed Road	Santa Rita	PB	20897
+04/12/89	dapibus.gravida.Aliquam@non.net	Erin Macdonald	385-555 Nunc. Av.	North Shore	North Island	13895
+11/11/88	scelerisque.neque.Nullam@orci.com	Ursula Lawson	"P.O. Box 518, 6786 Adipiscing Av."	Rezé	Pa	88364
+08/14/89	dapibus.gravida.Aliquam@et.org	Harper Fowler	263-813 Lectus Rd.	Patarrá	SJ	32454
+09/24/89	ante.lectus@nec.co.uk	Stewart Workman	330 Orci. Rd.	Gravataí	Rio Grande do Sul	30437
+01/27/89	pede@interdum.net	Eugenia Bowen	348-9024 Est. St.	Vienna	Vienna	58669
+07/15/91	gravida@aliquam.co.uk	Lilah Trujillo	"P.O. Box 468, 4777 Lacus. Av."	Belmont	Western Australia	72645
+09/30/86	dolor.Fusce.mi@imperdietullamcorper.edu	Minerva Hawkins	307-2332 Vestibulum Street	Namur	QC	37555
+12/11/92	vitae.purus.gravida@faucibusut.org	Nash Farley	919-5656 Gravida Av.	Te Puke	North Island	67886
+12/22/99	Phasellus.nulla@sodalesat.edu	Mari Keith	"3144 Ac, Rd."	Vienna	Wi	72041
+06/21/88	molestie@semperdui.net	Faith Tanner	"3475 Amet, Ave"	Waiheke Island	NI	77270
+05/28/98	Quisque.ornare.tortor@eratSed.com	Maite Craig	6849 Amet Road	Granada	AN	99757
+11/27/90	justo@libero.co.uk	Robert Flynn	Ap #395-6210 Porttitor St.	Vienna	Vienna	25863
+03/18/94	urna.Nullam.lobortis@ipsumPhasellusvitae.net	Jocelyn Kirk	"P.O. Box 758, 1520 Fringilla Rd."	Saint-Honor?	Quebec	18140
+10/10/99	adipiscing.lobortis@Cras.org	Dolan Donovan	780-4183 Dis Rd.	Birori	Sardegna	76330
+05/16/97	lobortis@convallis.ca	Coby Kim	614-1537 Gravida Street	Presteigne	RA	63911
+02/16/89	Fusce@variuset.ca	Hasad Rocha	Ap #259-4138 Mauris Street	Francofonte	SI	12870
+01/28/88	faucibus@porttitorvulputateposuere.ca	Theodore Roman	6175 Luctus Road	Lille	Nord-Pas-de-Calais	36708
+01/26/88	orci.adipiscing@diam.edu	Kiona Rhodes	"P.O. Box 498, 2451 In Av."	Penrith	NS	53965
+07/11/94	enim.Etiam.gravida@porttitorerosnec.net	Flynn Huff	"P.O. Box 114, 7673 Tellus. Rd."	Waitara	North Island	75642
+11/17/95	varius.Nam.porttitor@vitaedolorDonec.com	Winter Lloyd	"P.O. Box 982, 7168 Donec Rd."	Beausejour	Manitoba	94105
+02/22/92	augue.ac@Maecenasmi.com	Myra Britt	335-6989 Velit Av.	Vienna	Vienna	52091
+06/14/86	eros.Nam@Integer.ca	Carson Harding	2782 Nunc Av.	Perpignan	La	61938
+06/04/98	Aliquam.nisl@libero.org	Oprah Herman	Ap #319-6830 Cum Road	Ajaccio	Co	13378
+09/02/90	a.magna@seddictum.ca	Aimee Travis	"P.O. Box 222, 7849 Nibh. Rd."	Goulburn	NS	88946
+05/07/91	tellus.Suspendisse@semutcursus.org	Idola Alston	Ap #451-4119 Fringilla Avenue	Fayetteville	Arkansas	92223
+02/23/94	auctor@cursusluctus.org	Yeo Ross	116-1666 Viverra. Avenue	Toulouse	Midi-Pyrénées	56889
+02/17/97	quis.lectus@Nulla.net	Thomas Ellison	Ap #598-337 Cursus Road	Tulln an der Donau	Lower Austria	57370
+08/15/91	augue.malesuada@atauctor.net	Lester Underwood	Ap #689-3333 Cubilia Avenue	Westkapelle	West-Vlaanderen	81012
+05/30/95	nonummy@Nuncmauris.ca	Mia Simpson	Ap #910-2600 Turpis. Street	Huelva	AN	43255
+06/05/97	eu.eleifend.nec@non.org	Kaye Reid	"P.O. Box 438, 6830 Egestas Road"	Pali	RJ	49492
+12/04/99	elementum.lorem.ut@dolor.com	Rudyard Suarez	"P.O. Box 483, 6269 Ipsum Avenue"	Angers	Pays de la Loire	27017
+04/28/87	dui.nec@atlacus.co.uk	Dahlia Rivas	"P.O. Box 564, 3864 Nulla Av."	Yellowhead County	AB	48574
+04/20/98	a.sollicitudin@lobortisaugue.co.uk	Daquan Chang	Ap #363-7127 Tortor St.	Koekelberg	Brussels Hoofdstedelijk Gewest	12943
+04/13/89	convallis@Nunc.net	Blake Reid	780-9599 Fringilla Avenue	Gonnosnò	Sardegna	16910
+09/06/92	mus.Proin@atpretium.ca	Danielle Peters	685-460 Dapibus Av.	Tuscaloosa	AL	56426
+11/25/94	Morbi.sit@a.edu	Sylvester Merrill	2912 Mattis Road	Curridabat	San José	70510
+02/02/90	est.congue.a@Nuncpulvinar.org	Maisie Pitts	Ap #627-1912 Ac Street	Northallerton	Yorkshire	91936
+12/06/93	nec@quisdiam.net	Destiny Fulton	"P.O. Box 143, 208 Cum St."	Huelva	Andalucía	83853
+06/03/93	interdum@idmollisnec.ca	Eliana Sanchez	478-8662 Sed Avenue	Shipshaw	Quebec	14482
+04/30/91	Donec.consectetuer@nec.com	Stone Mcclain	"P.O. Box 681, 5726 Vestibulum St."	Vienna	Vienna	87743
