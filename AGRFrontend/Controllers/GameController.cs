@@ -98,7 +98,7 @@ namespace AGRFrontend.Controllers
                                     "begin transaction OrderGame" +
                                     " with mark N'Ordering a Game';" +
 
-                                    " insert INTO orders (OrderID, CustomerID, (GameName, SystemName))" +
+                                    " insert INTO orders (OrderID, CustomerID, GameName, SystemName)" +
                                     " Values (@OrderID, @CustomerID, @GameName, @SystemName);" +
 
                                     " insert INTO orderdetails (OrderID, Timestamp, Status)" +
@@ -116,8 +116,7 @@ namespace AGRFrontend.Controllers
                                 order_command.Parameters.AddWithValue("@CustomerID", customerID);
 
                                 connection.Open();
-                                if (order_command.ExecuteNonQuery() != 1)
-                                    throw new Exception("The number of new users created isn't equal to 1");
+                                order_command.ExecuteNonQuery();
 
                                 connection.Close();
                             }

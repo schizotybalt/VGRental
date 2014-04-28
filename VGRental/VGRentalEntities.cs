@@ -1,4 +1,5 @@
 ﻿using System.Data.Entity;
+
 using VGRental.Model;
 
 namespace VGRental
@@ -71,7 +72,7 @@ namespace VGRental
                 .WithMany(c => c.Orders).HasForeignKey(o => o.CustomerID);
 
             modelBuilder.Entity<Order>().HasRequired(o => o.Game)
-                .WithMany(g => g.Orders).HasForeignKey(g => new { g.GameName, g.SystemName });
+                .WithMany(g => g.Orders).HasForeignKey(g => new { g.SystemName, g.GameName });
             #endregion
 
             modelBuilder.Entity<VGRental.Model.System>().HasKey(s => s.Name);

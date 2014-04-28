@@ -1,0 +1,63 @@
+﻿@model IEnumerable<AGRFrontend.Models.OrderViewModel>
+
+@{
+    ViewBag.Title = "Orders";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Order.Customer.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Order.GameName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Order.SystemName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDetails.ShipDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDetails.Timestamp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDetails.Status)
+        </th>
+        @*<th></th>*@
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Order.Customer.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Order.GameName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Order.SystemName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderDetails.ShipDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderDetails.Timestamp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderDetails.Status)
+        </td>
+        @*<td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.OrderID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.OrderID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.OrderID })
+        </td>*@
+    </tr>
+}
+
+</table>

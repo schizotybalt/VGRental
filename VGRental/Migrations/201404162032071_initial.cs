@@ -29,15 +29,15 @@ namespace VGRental.Migrations
                 c => new
                     {
                         OrderID = c.Guid(nullable: false),
-                        CustomerID = c.Int(nullable: false),
                         GameName = c.String(nullable: false, maxLength: 128),
                         SystemName = c.String(nullable: false, maxLength: 128),
+                        CustomerID = c.Int(nullable: false),
                     })
-                .PrimaryKey(t => new { t.OrderID, t.CustomerID })
+                .PrimaryKey(t => t.OrderID)
                 .ForeignKey("dbo.Customers", t => t.CustomerID, cascadeDelete: true)
-                .ForeignKey("dbo.Games", t => new { t.GameName, t.SystemName }, cascadeDelete: true)
-                .Index(t => t.CustomerID)
-                .Index(t => new { t.GameName, t.SystemName });
+                .ForeignKey("dbo.Games", t => new { t.SystemName, t.GameName }, cascadeDelete: true)
+                .Index(t => new { t.SystemName, t.GameName })
+                .Index(t => t.CustomerID);
             
             CreateTable(
                 "dbo.Games",
@@ -78,13 +78,12 @@ namespace VGRental.Migrations
                         ExpirationDate = c.DateTime(nullable: false),
                         Amount = c.Int(nullable: false),
                         Order_OrderID = c.Guid(nullable: false),
-                        Order_CustomerID = c.Int(nullable: false),
                         OrderDetails_OrderID = c.Guid(nullable: false),
                     })
                 .PrimaryKey(t => new { t.OrderID, t.PromotionID })
-                .ForeignKey("dbo.Orders", t => new { t.Order_OrderID, t.Order_CustomerID })
+                .ForeignKey("dbo.Orders", t => t.Order_OrderID)
                 .ForeignKey("dbo.OrderDetails", t => t.OrderDetails_OrderID)
-                .Index(t => new { t.Order_OrderID, t.Order_CustomerID })
+                .Index(t => t.Order_OrderID)
                 .Index(t => t.OrderDetails_OrderID);
             
             CreateTable(
@@ -126,16 +125,16 @@ namespace VGRental.Migrations
         {
             DropForeignKey("dbo.Subscriptions", "customerID", "dbo.Customers");
             DropForeignKey("dbo.Promotions", "OrderDetails_OrderID", "dbo.OrderDetails");
-            DropForeignKey("dbo.Promotions", new[] { "Order_OrderID", "Order_CustomerID" }, "dbo.Orders");
-            DropForeignKey("dbo.Orders", new[] { "GameName", "SystemName" }, "dbo.Games");
+            DropForeignKey("dbo.Promotions", "Order_OrderID", "dbo.Orders");
+            DropForeignKey("dbo.Orders", new[] { "SystemName", "GameName" }, "dbo.Games");
             DropForeignKey("dbo.Games", "SystemName", "dbo.Systems");
             DropForeignKey("dbo.Orders", "CustomerID", "dbo.Customers");
             DropIndex("dbo.Subscriptions", new[] { "customerID" });
             DropIndex("dbo.Promotions", new[] { "OrderDetails_OrderID" });
-            DropIndex("dbo.Promotions", new[] { "Order_OrderID", "Order_CustomerID" });
+            DropIndex("dbo.Promotions", new[] { "Order_OrderID" });
             DropIndex("dbo.Games", new[] { "SystemName" });
-            DropIndex("dbo.Orders", new[] { "GameName", "SystemName" });
             DropIndex("dbo.Orders", new[] { "CustomerID" });
+            DropIndex("dbo.Orders", new[] { "SystemName", "GameName" });
             DropTable("dbo.OrderStatus");
             DropTable("dbo.Subscriptions");
             DropTable("dbo.OrderDetails");
